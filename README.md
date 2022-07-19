@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+### Thanks for visiting my GitHub Profile!
 
-<!--
-**grajk88/grajk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Giridhar Rajkumar and I am a Test Automation Consultant. I like to learn new test automation tools & frameworks in the industry and write about them on my website - [LearnDevTestOps](http://giridharrajkumar.com) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on SpecFlow & Playwright using TypeScript
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Feel free to visit my repositories
+- 💬 Ask me about Cucumber / SpecFlow, BDD, Test Automation, Selenium, Cypress & Playwright
+- 📫 How to reach me: Please visit my website mentioned above
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grajk88)](https://github.com/grajk88/github-readme-stats)
+
