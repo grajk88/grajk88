@@ -3,6 +3,8 @@
 ## Hi there 👋
 ### Thanks for visiting my GitHub Profile!
 
+![](https://komarev.com/ghpvc/?username=grajk88&color=green) ![GitHub followers](https://img.shields.io/github/followers/grajk88?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/vgrk2017?style=social)
+
 My name is Giridhar Rajkumar and I am a Test Automation Consultant. I like to learn new test automation tools & frameworks in the industry and write about them on my website - [LearnDevTestOps](http://giridharrajkumar.com) 
 
 - 🔭 I’m currently working on SpecFlow & Playwright using TypeScript
