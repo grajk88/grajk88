@@ -1,3 +1,5 @@
+[![Cover Photo](/assets/images/1612645387999.jpg "Cover Photo")](http://giridharrajkumar.com)
+
 ## Hi there 👋
 ### Thanks for visiting my GitHub Profile!
 
