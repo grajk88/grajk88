@@ -7,7 +7,7 @@
 
 My name is Giridhar Rajkumar and I am a Test Automation Consultant. I like to learn new test automation tools & frameworks in the industry and write about them on my website - [LearnDevTestOps](http://giridharrajkumar.com) 
 
-- 🔭 I’m currently working on WebDriverIO & TypeScript
+- 🔭 I’m currently working on Playwright & TypeScript
 - 🌱 I’m currently learning Generative AI Solutions for Quality Engineering
 - ⚡ Feel free to visit my repositories
 - 💬 Ask me about Cucumber / SpecFlow, BDD, Test Automation, WebDriverIO, Selenium, Cypress & Playwright
